@@ -66,9 +66,11 @@ h2 {
     color: #5a5a5a;
     font-weight: 500;
     font-size: 20px;
+    text-align: left;
 }
 .menu-table td {
     color: #9b9b9b;
+    text-align: left;
 }
 .menu-table .tablebg
 {
